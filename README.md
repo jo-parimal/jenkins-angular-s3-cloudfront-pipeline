@@ -1,3 +1,7 @@
+![Stars](https://img.shields.io/github/stars/jo-parimal/jenkins-angular-s3-cloudfront-pipeline)
+![Forks](https://img.shields.io/github/forks/jo-parimal/jenkins-angular-s3-cloudfront-pipeline)
+![License](https://img.shields.io/github/license/jo-parimal/jenkins-angular-s3-cloudfront-pipeline)
+
 ## Production-Ready Angular CI/CD using Jenkins, AWS S3 & CloudFront.
  Star this repo if it saved you hours of AWS + Jenkins debugging.
 
